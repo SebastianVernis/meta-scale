@@ -1,20 +1,18 @@
 # META SCALE
-Anti-ban social media automation engine with real-time risk scoring.
+Motor de automatización de redes sociales con anti-ban y puntuación de riesgo en tiempo real.
 
-- Español: `README.es.md`
-
-## Tech Stack
+## Stack tecnológico
 - **Backend**: Node.js + Express + TypeScript
 - **Frontend**: React + WebSocket
-- **Queue**: BullMQ + Redis
-- **Database**: PostgreSQL / SQLite
+- **Cola**: BullMQ + Redis
+- **Base de datos**: PostgreSQL / SQLite
 
-## Getting Started
+## Primeros pasos
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Status
-🚀 Development Phase 1
+## Estado
+🚀 Fase 1 de desarrollo
