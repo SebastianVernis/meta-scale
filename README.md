@@ -1,10 +1,14 @@
 # META SCALE
 Anti-ban social media automation engine with real-time risk scoring.
+
+- Español: `README.es.md`
+
 ## Tech Stack
 - **Backend**: Node.js + Express + TypeScript
 - **Frontend**: React + WebSocket
 - **Queue**: BullMQ + Redis
 - **Database**: PostgreSQL / SQLite
+
 ## Getting Started
 
 ```bash
@@ -12,5 +16,5 @@ npm install
 npm run dev
 ```
 
-## Status 
+## Status
 🚀 Development Phase 1
